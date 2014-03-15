@@ -1,5 +1,4 @@
 NAME bool fs.isFile (string path)
 DESCRIPTION Checks if the directory entry is a file (not a directory!)
-LINK 
 DETAILS
-undefined
+Self-explanatory. Checks if the given path points to a file instead of a directory.

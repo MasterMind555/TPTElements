@@ -1,5 +1,4 @@
 NAME bool fs.makeDirectory (string path)
 DESCRIPTION Returns true on success.
-LINK 
 DETAILS
-undefined
+Self-explanatory. Creates a new directory at the specified location.

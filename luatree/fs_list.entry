@@ -1,5 +1,4 @@
 NAME nil/table fs.list (string folder)
 DESCRIPTION Lists the contents of a directory, be it other directories or files.
-LINK 
 DETAILS
-undefined
+Prints the label of everything contained in the given folder.

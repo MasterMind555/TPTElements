@@ -1,5 +1,4 @@
 NAME bool fs.removeDirectory (string path)
 DESCRIPTION Returns true on success.
-LINK 
 DETAILS
-undefined
+Self-explanatory. Deletes the given directory. May not succeed if there are files in the directory.
